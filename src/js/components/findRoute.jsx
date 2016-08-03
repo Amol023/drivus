@@ -15,12 +15,12 @@ class FindRoute extends Component {
           onSubmit={this.props.submitLocation}>
           <input
             className="search-input"
-            placeholder="Enter your location"
+            placeholder="Enter your thing you fuck"
             name="startLocation"
             />
           <input
             className="search-input"
-            placeholder="Enter your destination"
+            placeholder="Enter your"
             name="endLocation"
             />
           <button className="submit-btn">Submit</button>

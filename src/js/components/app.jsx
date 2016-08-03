@@ -8,6 +8,7 @@ import MapView from '../containers/mapView.jsx';
 
 class App extends Component {
   render() {
+    // omg webpack
     return (
       <div>
         <h1>DrivUs / Jor / Luber / ABRoute</h1>

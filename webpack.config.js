@@ -10,6 +10,7 @@ module.exports = {
   output: {
     path: path.join(__dirname, 'public'),
     filename: "bundle.js",
+    // publicPath: "http://localhost:3000/bundle.js"
   },
   plugins: [
     new webpack.optimize.OccurrenceOrderPlugin(),
